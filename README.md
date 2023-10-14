@@ -19,4 +19,10 @@
 
 **Importance of Finance Data Analysis:** Benchmarking against industry peers, historical periods, and establishing the foundation for budgeting and forecasting.
 
+# Presentation
+![Screenshot (82)](https://github.com/Chauhan75/Sales_and_finance_analysis_on_excel/assets/142155144/b040fb75-fc4c-4e3c-9f0a-6007b85f73a3)
+
+
+
+
 
