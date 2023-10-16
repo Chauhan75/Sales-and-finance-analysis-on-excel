@@ -21,7 +21,7 @@
 
 # Presentation
 ![Screenshot (82)](https://github.com/Chauhan75/Sales_and_finance_analysis_on_excel/assets/142155144/b040fb75-fc4c-4e3c-9f0a-6007b85f73a3)
-
+# Link: https://drive.google.com/file/d/106y-1Ckrky_wWCE-qO6NyqExQQMlU9kt/view?usp=sharing
 
 
 
